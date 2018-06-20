@@ -1,3 +1,3 @@
-List of Projects
+Following are the List of Projects we will implement in this repository.
 1. Sentimental Analytics using Glue,Comprehend and Athena( SentimentAnalysisUsingComprehend )
 2. Lambda JSON to SQL 
